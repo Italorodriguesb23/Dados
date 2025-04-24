@@ -30,7 +30,6 @@ Transformar dados brutos em uma base estruturada e visualmente explorável, perm
 
 
 
-
 🔄 Gráfico de dispersão (idade x salário) – Relação entre faixa etária e remuneração média
 
 
@@ -40,11 +39,12 @@ Transformar dados brutos em uma base estruturada e visualmente explorável, perm
 
 
 🛠️ Ferramentas Utilizadas
-Python
 
-Pandas – Manipulação e limpeza de dados
+-Python
 
-Matplotlib & Seaborn – Criação de gráficos e visualizações
+-Pandas – Manipulação e limpeza de dados
 
-Jupyter Notebook – Ambiente de desenvolvimento interativo
+-Matplotlib & Seaborn – Criação de gráficos e visualizações
+
+-Jupyter Notebook – Ambiente de desenvolvimento interativo
 
