@@ -15,16 +15,22 @@ Transformar dados brutos em uma base estruturada e visualmente explorável, perm
 
 -Criação de variáveis auxiliares
 
-Visualização de dados com gráficos interativos e explicativos
+-Visualização de dados com gráficos interativos e explicativos
 
-📊 Gráficos Criados
+📊 Gráficos Criados:
+
+
 📈 Histograma de distribuição de idade – Análise da faixa etária predominante dos clientes
+
 
 🏢 Gráfico de barras: clientes por estado – Distribuição da base de clientes nos estados da região Sul (RS, SC, PR)
 
+
 🌡️ Mapa de calor (heatmap) – Correlação entre variáveis numéricas como idade, salário e tempo de conta
 
+
 🔄 Gráfico de dispersão (idade x salário) – Relação entre faixa etária e remuneração média
+
 
 🥧 Gráfico de pizza: clientes ativos vs inativos – Proporção atual da base em relação ao status do cliente
 
