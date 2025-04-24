@@ -29,8 +29,22 @@ Transformar dados brutos em uma base estruturada e visualmente explorável, perm
 🌡️ Mapa de calor (heatmap) – Correlação entre variáveis numéricas como idade, salário e tempo de conta
 
 
+
+
 🔄 Gráfico de dispersão (idade x salário) – Relação entre faixa etária e remuneração média
 
 
+
 🥧 Gráfico de pizza: clientes ativos vs inativos – Proporção atual da base em relação ao status do cliente
+
+
+
+🛠️ Ferramentas Utilizadas
+Python
+
+Pandas – Manipulação e limpeza de dados
+
+Matplotlib & Seaborn – Criação de gráficos e visualizações
+
+Jupyter Notebook – Ambiente de desenvolvimento interativo
 
